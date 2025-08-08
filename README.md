@@ -9,7 +9,7 @@
 - Documented everything here
 
 ## Commands Used
-```bash
+
 git init
 git checkout -b dev
 git checkout -b feature
